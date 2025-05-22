@@ -2,7 +2,7 @@
 
 ### Yannick Jadoul, Torino, 19 May 2025
 
-This is the interactive tutorial on Python and Parselmouth, taught as guest lecture in the "Applied sound analysis of bioacoustics and ecoacoustics course" at the University of Torino.
+This is the interactive tutorial on Python and Parselmouth, taught as guest lecture in the "Applied sound analysis of bioacoustics and ecoacoustics" course at the University of Torino.
 
 Refer to [Python.ipynb](Python.ipynb) and [Parselmouth.ipynb](Parselmouth.ipynb) for the notebooks with the tutorials' content.
 
